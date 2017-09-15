@@ -1,0 +1,15 @@
+.footer {
+  position: static;
+  background: #44aeb3;
+
+  ul {
+    text-align: center;
+    list-style: none;
+    float: left;
+  }
+
+  li {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+}
